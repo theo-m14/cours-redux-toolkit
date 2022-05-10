@@ -1,53 +1,28 @@
 {
   "pictures": [
     {
-      "artist": "Paulin Frustro",
-      "year": "2021",
-      "photo": "https://picsum.photos/400/352",
-      "addedDate": 1649240229849,
-      "id": 1
+      "artist": "ff",
+      "year": "ff",
+      "photo": "https://picsum.photos/400/333",
+      "id": 13
     },
     {
-      "artist": "Kamau",
-      "year": "2005",
-      "photo": "https://picsum.photos/400/484",
-      "id": 3
+      "artist": "fffzerf'ege",
+      "year": "fffef",
+      "photo": "https://picsum.photos/400/483",
+      "id": 14
     },
     {
-      "artist": "Samedixs",
-      "year": "2010",
-      "photo": "https://picsum.photos/400/396",
-      "id": 4
+      "artist": "d",
+      "year": "ddd",
+      "photo": "https://picsum.photos/400/395",
+      "id": 15
     },
     {
-      "artist": "Misan Harriman",
-      "year": "1999",
-      "photo": "https://picsum.photos/400/338",
-      "id": 5
-    },
-    {
-      "artist": "Takeshi Nagano",
-      "year": "2017",
-      "photo": "https://picsum.photos/400/499",
-      "id": 6
-    },
-    {
-      "artist": "Neil Burnell",
-      "year": "2012",
-      "photo": "https://picsum.photos/400/443",
-      "id": 7
-    },
-    {
-      "artist": "Jidhun",
-      "year": "2009",
-      "photo": "https://picsum.photos/400/364",
-      "id": 8
-    },
-    {
-      "artist": "Martin Grange",
-      "year": "2021",
-      "photo": "https://picsum.photos/400/470",
-      "id": 9
+      "artist": "gg ggg ggg",
+      "year": "gg",
+      "photo": "https://picsum.photos/400/346",
+      "id": 16
     }
   ]
 }
